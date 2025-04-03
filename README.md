@@ -1,5 +1,5 @@
 # 🌟Features
-
+[image alt](https://github.com/tetantes/TETANTES-REFFER-AND-EARN-BOT/blob/BB_Export_1743611291/Screenshot_20250403-195954.png)
 • Refer and Earn: Users earn points by referring others 
 
 • Daily Bonus: Users claim bonus points daily to boost their balance
